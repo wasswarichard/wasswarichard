@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wasswarichard
-- 👀 I’m interested in JavaScript and python
+- 👀 I’m interested in JavaScript, Typescript and python
 
 <!---
 wasswarichard/wasswarichard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
