@@ -17,7 +17,7 @@
 ### My GitHub Stats
 <div>
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wasswaichard&show_icons=true&theme=tokyo"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wasswarichard&show_icons=true&theme=tokyo"/>
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wasswarichard&theme=tokyo" />
 </p>
