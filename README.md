@@ -23,6 +23,10 @@
 </p>
 </div>
 
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasswarichard&langs_count=10&theme=tokyonight&layout=compact" alt="Richard Wasswa :: Top Langs" /></p>
+
 <h3>How to reach me: </h3>
 <p><a href="https://www.linkedin.com/in/wasswarichard" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
