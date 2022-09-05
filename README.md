@@ -1,5 +1,5 @@
 ### Hi, am Wasswa Richard there 👋
-<h3 align="left">A passionate Full-stack Software Engineer</h3>
+<h3 align="left">Full-Stack engineer passionate about open source.</h3>
 <hr/>
 
 <!-- ### Languages and Tools:
