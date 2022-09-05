@@ -1,4 +1,3 @@
-### Hi, am Wasswa Richard there 👋
 <h3 align="left">Full-Stack engineer passionate about open source.</h3>
 <hr/>
 
