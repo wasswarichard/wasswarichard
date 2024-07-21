@@ -13,7 +13,7 @@
 </div>
  -->
 
-### My GitHub Stats
+### My GitHub Stats.
 <div>
 <p>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wasswarichard&theme=tokyonight" />
