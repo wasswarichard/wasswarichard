@@ -31,7 +31,7 @@
 ### My GitHub Stats.
 <div>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasswarichard&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="wasswarichard"/>
-<img width="48%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wasswarichard&theme=tokyonight" alt="wasswarichard" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wasswarichard&theme=tokyonight" alt="wasswarichard" />
 </div>
 
 <!-- <h4 align="center">Top langs :tongue:</h4>
